@@ -1,12 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using AutoMapper;
+using CleanArchitectureExample.Domain.Entities;
 
-namespace CleanArchitectureExample.Application.Features.UserFeatures.CreateUser
+namespace CleanArchitectureExample.Application.Features.UserFeatures.CreateUser;
+
+public class CreateUserMapper : Profile
 {
-    public class CreateUserMapper
+    protected CreateUserMapper()
     {
-        
+        CreateMap<CreateUserRequest, User>();
+        CreateMap<User, CreateUserResponse>();
     }
 }

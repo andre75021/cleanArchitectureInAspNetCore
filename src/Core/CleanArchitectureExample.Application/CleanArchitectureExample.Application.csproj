@@ -16,4 +16,10 @@
     <ProjectReference Include="..\CleanArchitectureExample.Domain\CleanArchitectureExample.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="FluentValidation" Version="11.8.1" />
+  </ItemGroup>
+
 </Project>

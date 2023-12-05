@@ -1,12 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using MediatR;
 
-namespace CleanArchitectureExample.Application.Features.UserFeatures.CreateUser
-{
-    public class CreateUserRequest
-    {
-        
-    }
-}
+namespace CleanArchitectureExample.Application.Features.UserFeatures.CreateUser;
+public sealed record CreateUserRequest(string email, string name) : IRequest<CreateUserResponse>;    
