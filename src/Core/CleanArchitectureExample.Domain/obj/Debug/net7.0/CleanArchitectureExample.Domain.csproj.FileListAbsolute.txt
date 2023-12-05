@@ -1,0 +1,12 @@
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\bin\Debug\net7.0\CleanArchitectureExample.Domain.deps.json
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\bin\Debug\net7.0\CleanArchitectureExample.Domain.dll
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\bin\Debug\net7.0\CleanArchitectureExample.Domain.pdb
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.csproj.AssemblyReference.cache
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.AssemblyInfoInputs.cache
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.AssemblyInfo.cs
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.csproj.CoreCompileInputs.cache
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.dll
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\refint\CleanArchitectureExample.Domain.dll
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\CleanArchitectureExample.Domain.pdb
+F:\Andre\programacao\workspace\AspNet-Core\cleanArchitectureInAspNetCore\src\Core\CleanArchitectureExample.Domain\obj\Debug\net7.0\ref\CleanArchitectureExample.Domain.dll
