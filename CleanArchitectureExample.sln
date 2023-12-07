@@ -11,13 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureExample.Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureExample.Application", "src\Core\CleanArchitectureExample.Application\CleanArchitectureExample.Application.csproj", "{298BD2E9-4CD4-488F-B97F-123EB5BE36C3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E46B9D36-C0F9-472F-9D9E-A0636B119FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureExample.Persistence", "src\Infrastructure\CleanArchitectureExample.Persistence\CleanArchitectureExample.Persistence.csproj", "{A6FE9B89-63B4-44BE-876D-49256F319C85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CB6C02CF-9B3D-4572-B75B-3322D4D0B4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -28,10 +29,19 @@ Global
 		{298BD2E9-4CD4-488F-B97F-123EB5BE36C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{298BD2E9-4CD4-488F-B97F-123EB5BE36C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{298BD2E9-4CD4-488F-B97F-123EB5BE36C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FE9B89-63B4-44BE-876D-49256F319C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FE9B89-63B4-44BE-876D-49256F319C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FE9B89-63B4-44BE-876D-49256F319C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FE9B89-63B4-44BE-876D-49256F319C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0047A0CB-BE7A-4BA8-A38B-E9A9BAC5DF8B} = {C5558CB3-00C3-496D-87BF-FE6BDD2F75A4}
 		{CB6C02CF-9B3D-4572-B75B-3322D4D0B4FC} = {0047A0CB-BE7A-4BA8-A38B-E9A9BAC5DF8B}
 		{298BD2E9-4CD4-488F-B97F-123EB5BE36C3} = {0047A0CB-BE7A-4BA8-A38B-E9A9BAC5DF8B}
+		{E46B9D36-C0F9-472F-9D9E-A0636B119FB8} = {C5558CB3-00C3-496D-87BF-FE6BDD2F75A4}
+		{A6FE9B89-63B4-44BE-876D-49256F319C85} = {E46B9D36-C0F9-472F-9D9E-A0636B119FB8}
 	EndGlobalSection
 EndGlobal
